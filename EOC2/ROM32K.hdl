@@ -1,7 +1,0 @@
-CHIP ROM32K {
-
-    IN  address[15];
-    OUT out[16];
-
-    BUILTIN ROM32K;
-}
